@@ -1,0 +1,160 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Google_Analytics_Assignment</string>
+    <string name="l1">
+            Laptop name : Mi Notebook Pro 14
+            Operating system : Windows 10
+            RAM : 16GB
+            weight : 1.5Kg
+            description : Mi Notebook Pro 14 is a Windows 10 laptop with a 14.00-inch display that has a resolution of 2560x1600 pixels. It is powered by a Core i5 processor and it comes with 16GB of RAM. The Mi Notebook Pro 14 packs 512GB of SSD storage.
+    </string>
+    <string name="l2">
+            Laptop name : Lenovo 500w Gen 3
+            Operating system : Windows 8
+            RAM : 8GB
+            weight : 2.7Kg
+            description :  Lenovo 14w Gen 2 specifications, features Lenovo 14w Gen 2 comes with up to Windows 10 Pro. It features a 14-inch display that comes in HD resolution and full-HD resolution with options for different brightness levels and touch input. The laptop is powered by the dual-core AMD 3015e Processor with integrated graphics.
+    </string>
+    <string name="l3">
+            Laptop name : Apple MacBook Air MRE82HN/A
+            Operating system : Windows 10
+            RAM : 12GB
+            weight : 1.25Kg
+            description : Apple MacBook Air MRE82HN/A is a macOS laptop with a 13.30-inch display that has a resolution of 2560x1600 pixels. It is powered by a Core i5 processor and it comes with 8GB of RAM. The Apple MacBook Air MRE82HN/A packs 128GB of SSD storage.
+    </string>
+    <string name="l4">
+            laptop name : HP ProBook
+            Operating system : Windows 7
+            RAM : 16GB
+            weight : 2.0Kg
+            description : Windows 7 Pro or other operating systems Intel® Core™ i3, i5, and i7 processors (dual and quad core) 14.0" diagonal HD (1366 x 768), HD+ (1600 x 900) or FHD (1920 x 1080) display Take on tasks in the office or on the road.
+    </string>
+    <string name="l5">
+            Laptop name : HP NoteBook 445 G8
+            Operating system : Windows 10
+            RAM : 4GB
+            weight : 2.4Kg
+            description : Windows 10 Pro or other operating systems Intel® Core™ i3, i5, and i7 processors (dual core) 15.6" diagonal HD (1366 x 768) display, FHD (1920 x 1080), or HD Touchscreen (1366 x 768) display Delivers powerful performance in the office or on the go.
+    </string>
+
+    <string name="m1">
+            Mobile name : Apple iPhone XS Max
+            launch : 2018
+            RAM : 4GB
+            Storage : 64 GB
+            Price : $ 430.83 / £ 309.95
+    </string>
+    <string name="m2">
+            Mobile name : Apple iPhone 6 Plu
+            launch : 2014
+            RAM : 1GB
+            Storage : 16 GB
+            Price : $ 230.83 / £ 250
+    </string>
+    <string name="m3">
+            Mobile name : Huawei Y7a
+            launch : 2018
+            RAM : 4GB
+            Storage : 32 GB
+            Price : $ 150 / £ 200
+    </string>
+    <string name="m4">
+            Mobile name : Samsung Galaxy A52
+            launch : 2019
+            RAM : 6GB
+            Storage : 64 GB
+            Price : $ 300 / £ 309
+    </string>
+    <string name="m5">
+            Mobile name : Samsung Galaxy S20
+            launch : 2020
+            RAM : 8GB
+            Storage : 64 GB
+            Price : $ 700 / £ 720
+    </string>
+
+
+    <string name="f1">
+            Mail name : Kabaab
+            description : Kebabs are various cooked meat dishes with their origins in Middle Eastern cuisine. Numerous variants are popular around the world.
+            Price :	$ 7
+    </string>
+    <string name="f2">
+            Mail name : Pizza
+            description : is a savory dish of Italian origin consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients (such as anchovies, mushrooms, onions, olives, pineapple, meat, etc.), which is then baked at a high temperature, traditionally in a wood-fired oven.[1] A small pizza is sometimes called a pizzetta. A person who makes pizza is known as a pizzaiolo.
+            Price :	$ 12
+    </string>
+    <string name="f3">
+            Mail name : Shawarma
+            description : consisting of meat cut into thin slices, stacked in a cone-like shape, and roasted on a slowly-turning vertical rotisserie or spit. Originally made of lamb or mutton, todays shawarma may also be chicken, turkey, beef, or veal.[5][6][1] Thin slices are shaved off the cooked surface as it. continuously rotates.
+            Price :	$ 5
+    </string>
+    <string name="f4">
+            Mail name : Grilled chiken
+            description : Sometimes in cooking the simplest dishes are the hardest to get right, and grilled chicken is a perfect example. Because boneless chicken breasts are so lean, they often turn out dry, rubbery, and bland.
+            Price :	$ 10
+    </string>
+    <string name="f5">
+           Mail name : Drinks
+            description :is a liquid intended for human consumption. In addition to their basic function of satisfying thirst, drinks play important roles in human culture. Common types of drinks include plain drinking water, milk, coffee, tea, hot chocolate, juice and soft drinks.
+            Price :	$ 1
+    </string>
+
+
+    <string name="c1">
+            Clothes name : Cap
+            description :A cap is a kind of soft and flat headgear, usually with a visor. Caps have crowns that fit very close to the head. They made their first appearance as early as 3,200BC.[1] Caps typically have a visor, or no brim at all
+            Price :	$ 3
+    </string>
+    <string name="c2">
+            Clothes name : Shirt
+            description :A shirt is a cloth garment for the upper body (from the neck to the waist).Originally an undergarment worn exclusively by men, it has become, in American English, a catch-all term for a broad variety of upper-body garments and undergarments.
+            Price :	$ 5
+    </string>
+    <string name="c3">
+            Clothes name : Jacket
+            description :A jacket is a garment for the upper body, usually extending below the hips.[1] A jacket typically has sleeves, and fastens in the front or slightly on the side. A jacket is generally lighter, tighter-fitting, and less insulating than a coat, which is outerwear.
+        Price :	$ 20
+    </string>
+    <string name="c4">
+            Clothes name : Jeans
+            description :Jeans are a type of pants or trousers, typically made from denim or dungaree cloth. Often the term "jeans" refers to a particular style of trousers, called "blue jeans", which were invented by Jacob W. Davis in partnership with Levi Strauss
+        Price :	$ 15
+    </string>
+    <string name="c5">
+            Clothes name : Shoes
+            description : A shoe is an item of footwear intended to protect and comfort the human foot. Shoes are also used as an item of decoration and fashion.
+        Price :	$ 12
+    </string>
+
+    <string name="e1">
+            Device name : Refrigerator
+            modal : 2018
+            description : is a home appliance consisting of a thermally insulated compartment and a heat pump (mechanical, electronic or chemical) that transfers heat from its inside to its external environment so that its inside is cooled to a temperature below the room temperature.
+             Price :	$ 500
+    </string>
+    <string name="e2">
+            Device name : Washer
+            modal : 2016
+            description : is a thin plate (typically disk-shaped, but sometimes square) with a hole (typically in the middle) that is normally used to distribute the load of a threaded fastener, such as a bolt or nut. Other uses are as a spacer, spring (Belleville washer
+            Price :	$ 200
+    </string>
+    <string name="e3">
+            Device name : Conditioner
+            modal : 2014
+            description : is the process of removing heat and controlling the humidity as well as removing dust in some cases of the air within a building or vehicle to achieve a more comfortable interior environment.
+            Price :	$ 350
+    </string>
+    <string name="e4">
+            Device name : Fan
+            modal : 2020
+            description : is a powered machine used to create a flow of air. A fan consists of a rotating arrangement of vanes or blades, which act on the air. The rotating assembly of blades and hub is known as an impeller, rotor, or runner
+            Price :	$ 50
+    </string>
+    <string name="e5">
+            Device name : Microwave
+            modal : 2019
+            description : is an electric oven that heats and cooks food by exposing it to electromagnetic radiation in the microwave frequency range.
+             Price : $ 100
+    </string>
+
+</resources>
